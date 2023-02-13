@@ -1,0 +1,2172 @@
+{
+    "users": [
+        {
+            "id": "691682283056398377",
+            "model": "text-davinci-003",
+            "responsesHidden": false
+        },
+        {
+            "id": "835096800209010699",
+            "model": "text-davinci-003",
+            "responsesHidden": false
+        },
+        {
+            "id": "866512087408574485",
+            "model": "text-davinci-003",
+            "responsesHidden": false
+        },
+        {
+            "id": "756135636448313416",
+            "model": "text-davinci-003",
+            "responsesHidden": false
+        },
+        {
+            "id": "1006026112633159691",
+            "model": "text-davinci-003",
+            "responsesHidden": false
+        },
+        {
+            "id": "983298793523019807",
+            "model": "text-davinci-003",
+            "responsesHidden": false
+        },
+        {
+            "id": "1011098797667008593",
+            "model": "text-davinci-003",
+            "responsesHidden": false
+        },
+        {
+            "id": "1009281085965865070",
+            "model": "text-davinci-003",
+            "responsesHidden": false
+        },
+        {
+            "id": "1026682431237017676",
+            "model": "text-davinci-003",
+            "responsesHidden": false
+        },
+        {
+            "id": "1033936809400475708",
+            "model": "text-davinci-003",
+            "responsesHidden": false
+        },
+        {
+            "id": "466908428539789332",
+            "model": "text-davinci-003",
+            "responsesHidden": false
+        },
+        {
+            "id": "1018698230369898608",
+            "model": "text-davinci-003",
+            "responsesHidden": false
+        }
+    ],
+    "messageEveryday": [
+        {
+            "chanelId": "974527603581005854",
+            "data": [
+                {
+                    "userId": "922003239887581205",
+                    "username": "KOMU",
+                    "content": [
+                        {
+                            "contentId": "1074515741157634058",
+                            "createdTimestamp": "2023-02-13T02:21:56.229000+00:00",
+                            "content": "PM <@921602733688123412>, **Phi Lê Kim**: <@951010111592235018> [HN2 - CTV] has sent a request **Đi muộn/Về sớm** for following dates:\n ```13/02/2023 [DiMuon: 1h] - Pending\n```Reason: ```Em đi học buổi trưa từ 12h - 13h30```"
+                        },
+                        {
+                            "contentId": "1074513452036542614",
+                            "createdTimestamp": "2023-02-13T02:12:50.460000+00:00",
+                            "content": "PM <@921633354133143712>, <@921602733688123412>: **Tùng Nguyễn Sơn** has **approved** the request: <@921585573901254727> [HN1 - Staff] **Nghỉ thông thường** 16/02/2023 [Fullday] - All"
+                        },
+                        {
+                            "contentId": "1074511125875540128",
+                            "createdTimestamp": "2023-02-13T02:03:35.860000+00:00",
+                            "content": "PM <@921633354133143712>, <@921602733688123412>: **Phi Lê Kim** has **approved** the request: **Đạt Nguyễn Duy** [HN3 - TTS] **Nghỉ thông thường** 16/02/2023 [Afternoon] - All"
+                        },
+                        {
+                            "contentId": "1074511104883048488",
+                            "createdTimestamp": "2023-02-13T02:03:30.855000+00:00",
+                            "content": "PM <@921633354133143712>, <@921602733688123412>: **Phi Lê Kim** has **approved** the request: **Đạt Nguyễn Duy** [HN3 - TTS] **Đi muộn/Về sớm** 15/02/2023 [DiMuon: 0.5h] - All"
+                        },
+                        {
+                            "contentId": "1074511101930254376",
+                            "createdTimestamp": "2023-02-13T02:03:30.151000+00:00",
+                            "content": "PM <@921633354133143712>, <@921602733688123412>: **Phi Lê Kim** has **approved** the request: **Đạt Nguyễn Duy** [HN3 - TTS] **Nghỉ thông thường** 15/02/2023 [Morning] - All"
+                        },
+                        {
+                            "contentId": "1074511083093626900",
+                            "createdTimestamp": "2023-02-13T02:03:25.660000+00:00",
+                            "content": "PM <@921633354133143712>, <@921602733688123412>: **Phi Lê Kim** has **approved** the request: **Đạt Nguyễn Duy** [HN3 - TTS] **Nghỉ thông thường** 14/02/2023 [Fullday] - All"
+                        },
+                        {
+                            "contentId": "1074511059597131797",
+                            "createdTimestamp": "2023-02-13T02:03:20.058000+00:00",
+                            "content": "PM <@921633354133143712>, <@921602733688123412>: **Phi Lê Kim** has **approved** the request: **Tuấn Nguyễn Trọng** [QN - Staff] **Nghỉ thông thường** 13/02/2023 [Morning] - All"
+                        },
+                        {
+                            "contentId": "1074511056220737547",
+                            "createdTimestamp": "2023-02-13T02:03:19.253000+00:00",
+                            "content": "PM <@921633354133143712>, <@921602733688123412>: **Phi Lê Kim** has **approved** the request: **Vy Phạm Xuân Khả** [QN - TTS] **Nghỉ thông thường** 13/02/2023 [Fullday] - All"
+                        },
+                        {
+                            "contentId": "1074510984066109491",
+                            "createdTimestamp": "2023-02-13T02:03:02.050000+00:00",
+                            "content": "PM <@921633354133143712>, <@921602733688123412>: **Phi Lê Kim** has **approved** the request: <@921602733688123412> [QN - Staff] **Đi muộn/Về sớm** 13/02/2023 [DiMuon: 0.5h] - All"
+                        },
+                        {
+                            "contentId": "1074510947223343144",
+                            "createdTimestamp": "2023-02-13T02:02:53.266000+00:00",
+                            "content": "PM <@921633354133143712>, <@921602733688123412>: **Phi Lê Kim** has **approved** the request: **Đạt Nguyễn Duy** [HN3 - TTS] **Nghỉ thông thường** 13/02/2023 [Fullday] - All"
+                        },
+                        {
+                            "contentId": "1074510793283993632",
+                            "createdTimestamp": "2023-02-13T02:02:16.564000+00:00",
+                            "content": "PM <@921633354133143712>, <@921602733688123412>: <@921585573901254727> [HN1 - Staff] has sent a request **Nghỉ thông thường** for following dates:\n ```16/02/2023 [Fullday] - Pending\n```Reason: ```Gia đình có việc riêng```"
+                        },
+                        {
+                            "contentId": "1074509357229817916",
+                            "createdTimestamp": "2023-02-13T01:56:34.182000+00:00",
+                            "content": "PM <@921633354133143712>, <@921602733688123412>: <@921602733688123412> [QN - Staff] has sent a request **Đi muộn/Về sớm** for following dates:\n ```13/02/2023 [DiMuon: 0.5h] - Pending\n```Reason: ```em có việc đột xuất ạ```"
+                        },
+                        {
+                            "contentId": "1074507002505609287",
+                            "createdTimestamp": "2023-02-13T01:47:12.772000+00:00",
+                            "content": "PM <@921633354133143712>, <@921602733688123412>: **Hiếu Đỗ Hoàng** has **approved** the request: **Hoàng Nguyễn Việt** [HN2 - TTS] **Nghỉ thông thường** 13/02/2023 [Morning] - All"
+                        },
+                        {
+                            "contentId": "1074375362731065374",
+                            "createdTimestamp": "2023-02-12T17:04:07.404000+00:00",
+                            "content": "PM <@921633354133143712>, <@921602733688123412>: **Tuấn Nguyễn Trọng** [QN - Staff] has sent a request **Nghỉ thông thường** for following dates:\n ```14/02/2023 [Fullday] - Pending\n```Reason: ```em xin off đi học```"
+                        },
+                        {
+                            "contentId": "1074374340260397188",
+                            "createdTimestamp": "2023-02-12T17:00:03.628000+00:00",
+                            "content": "PM <@921633354133143712>, <@921602733688123412>: **Tuấn Nguyễn Trọng** [QN - Staff] has sent a request **Nghỉ thông thường** for following dates:\n ```13/02/2023 [Morning] - Pending\n```Reason: ```em xin off đi khám mắt```"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "chanelId": "922187393757487134",
+            "data": [
+                {
+                    "userId": "922003239887581205",
+                    "username": "KOMU",
+                    "content": [
+                        {
+                            "contentId": "1074622659477913645",
+                            "createdTimestamp": "2023-02-13T09:26:47.543000+00:00",
+                            "content": "`✅` Daily saved."
+                        },
+                        {
+                            "contentId": "1074619801500131328",
+                            "createdTimestamp": "2023-02-13T09:15:26.148000+00:00",
+                            "content": "`✅` Daily saved."
+                        },
+                        {
+                            "contentId": "1074618473562525727",
+                            "createdTimestamp": "2023-02-13T09:10:09.543000+00:00",
+                            "content": "`✅` Daily saved."
+                        },
+                        {
+                            "contentId": "1074617925039837214",
+                            "createdTimestamp": "2023-02-13T09:07:58.765000+00:00",
+                            "content": "`✅` Daily saved."
+                        },
+                        {
+                            "contentId": "1074617220304470066",
+                            "createdTimestamp": "2023-02-13T09:05:10.743000+00:00",
+                            "content": "`✅` Daily saved."
+                        },
+                        {
+                            "contentId": "1074616973364838410",
+                            "createdTimestamp": "2023-02-13T09:04:11.868000+00:00",
+                            "content": "`✅` Daily saved."
+                        },
+                        {
+                            "contentId": "1074616837574238248",
+                            "createdTimestamp": "2023-02-13T09:03:39.493000+00:00",
+                            "content": "`✅` Daily saved."
+                        },
+                        {
+                            "contentId": "1074615170598440980",
+                            "createdTimestamp": "2023-02-13T08:57:02.055000+00:00",
+                            "content": "`✅` Daily saved."
+                        },
+                        {
+                            "contentId": "1074615064021172255",
+                            "createdTimestamp": "2023-02-13T08:56:36.645000+00:00",
+                            "content": "`✅` Daily saved."
+                        },
+                        {
+                            "contentId": "1074614789189406720",
+                            "createdTimestamp": "2023-02-13T08:55:31.120000+00:00",
+                            "content": "```Please enter at least 100 characters in your daily text```"
+                        },
+                        {
+                            "contentId": "1074612872174383104",
+                            "createdTimestamp": "2023-02-13T08:47:54.068000+00:00",
+                            "content": "`✅` Daily saved."
+                        },
+                        {
+                            "contentId": "1074612564132122644",
+                            "createdTimestamp": "2023-02-13T08:46:40.625000+00:00",
+                            "content": "`✅` Daily saved."
+                        },
+                        {
+                            "contentId": "1074612051437162577",
+                            "createdTimestamp": "2023-02-13T08:44:38.389000+00:00",
+                            "content": "`✅` Daily saved."
+                        },
+                        {
+                            "contentId": "1074593608382021703",
+                            "createdTimestamp": "2023-02-13T07:31:21.222000+00:00",
+                            "content": "`✅` Daily saved."
+                        },
+                        {
+                            "contentId": "1074593442027536394",
+                            "createdTimestamp": "2023-02-13T07:30:41.560000+00:00",
+                            "content": "```Please enter at least 100 characters in your daily text```"
+                        },
+                        {
+                            "contentId": "1074585767264919663",
+                            "createdTimestamp": "2023-02-13T07:00:11.754000+00:00",
+                            "content": "`✅` Daily saved."
+                        },
+                        {
+                            "contentId": "1074583106167771138",
+                            "createdTimestamp": "2023-02-13T06:49:37.299000+00:00",
+                            "content": "`✅` Daily saved."
+                        },
+                        {
+                            "contentId": "1074582937481269258",
+                            "createdTimestamp": "2023-02-13T06:48:57.081000+00:00",
+                            "content": "`✅` Daily saved."
+                        },
+                        {
+                            "contentId": "1074578328742268958",
+                            "createdTimestamp": "2023-02-13T06:30:38.272000+00:00",
+                            "content": "`✅` Daily saved."
+                        },
+                        {
+                            "contentId": "1074578277626294272",
+                            "createdTimestamp": "2023-02-13T06:30:26.085000+00:00",
+                            "content": "```Please enter at least 100 characters in your daily text```"
+                        },
+                        {
+                            "contentId": "1074578005936054363",
+                            "createdTimestamp": "2023-02-13T06:29:21.309000+00:00",
+                            "content": "`✅` Daily saved."
+                        },
+                        {
+                            "contentId": "1074577516565630996",
+                            "createdTimestamp": "2023-02-13T06:27:24.634000+00:00",
+                            "content": "`✅` Daily saved."
+                        },
+                        {
+                            "contentId": "1074577480461066270",
+                            "createdTimestamp": "2023-02-13T06:27:16.026000+00:00",
+                            "content": "`✅` Daily saved."
+                        },
+                        {
+                            "contentId": "1074576422041034874",
+                            "createdTimestamp": "2023-02-13T06:23:03.679000+00:00",
+                            "content": "PM <@868026993113956373>: <@922332557759098931> [SG1 - Staff] has sent a request **Đi muộn/Về sớm** for following dates:\n ```13/02/2023 [VeSom: 1.5h] - Pending\n```Reason: ```em bị ốm xin về sớm ạ```"
+                        },
+                        {
+                            "contentId": "1074575643183955970",
+                            "createdTimestamp": "2023-02-13T06:19:57.985000+00:00",
+                            "content": "`✅` Daily saved."
+                        },
+                        {
+                            "contentId": "1074574467478585355",
+                            "createdTimestamp": "2023-02-13T06:15:17.675000+00:00",
+                            "content": "`✅` Daily saved."
+                        },
+                        {
+                            "contentId": "1074574379431759992",
+                            "createdTimestamp": "2023-02-13T06:14:56.683000+00:00",
+                            "content": "`✅` Daily saved."
+                        },
+                        {
+                            "contentId": "1074572717463982120",
+                            "createdTimestamp": "2023-02-13T06:08:20.439000+00:00",
+                            "content": "`✅` Daily saved."
+                        },
+                        {
+                            "contentId": "1074571303077548123",
+                            "createdTimestamp": "2023-02-13T06:02:43.223000+00:00",
+                            "content": "`✅` Daily saved."
+                        },
+                        {
+                            "contentId": "1074550491058536529",
+                            "createdTimestamp": "2023-02-13T04:40:01.251000+00:00",
+                            "content": "PM <@868026993113956373>: **Thái Bùi Minh** has **approved** the request: <@921665170055528489> [HN1 - Staff] **Đi muộn/Về sớm** 13/02/2023 [DiMuon: 0.5h] - All"
+                        },
+                        {
+                            "contentId": "1074537460098404494",
+                            "createdTimestamp": "2023-02-13T03:48:14.428000+00:00",
+                            "content": "PM <@868026993113956373>: <@350990984374386688> [HN1 - CTV] has sent a request **Nghỉ thông thường** for following dates:\n ```14/02/2023 [Fullday] - Pending\n```Reason: ```em xin nghỉ đi làm hộ chiếu ạ```"
+                        },
+                        {
+                            "contentId": "1074536576782188666",
+                            "createdTimestamp": "2023-02-13T03:44:43.829000+00:00",
+                            "content": "`✅` Daily saved."
+                        },
+                        {
+                            "contentId": "1074534198322409522",
+                            "createdTimestamp": "2023-02-13T03:35:16.760000+00:00",
+                            "content": "`✅` Daily saved."
+                        },
+                        {
+                            "contentId": "1074525797244731413",
+                            "createdTimestamp": "2023-02-13T03:01:53.787000+00:00",
+                            "content": "`✅` Daily saved."
+                        },
+                        {
+                            "contentId": "1074520163363328071",
+                            "createdTimestamp": "2023-02-13T02:39:30.565000+00:00",
+                            "content": "`✅` Daily saved."
+                        },
+                        {
+                            "contentId": "1074519850573111307",
+                            "createdTimestamp": "2023-02-13T02:38:15.990000+00:00",
+                            "content": "`✅` Daily saved."
+                        },
+                        {
+                            "contentId": "1074517772232564807",
+                            "createdTimestamp": "2023-02-13T02:30:00.475000+00:00",
+                            "content": "`✅` Daily saved."
+                        },
+                        {
+                            "contentId": "1074515921739206696",
+                            "createdTimestamp": "2023-02-13T02:22:39.283000+00:00",
+                            "content": "`✅` Daily saved."
+                        },
+                        {
+                            "contentId": "1074515300269183098",
+                            "createdTimestamp": "2023-02-13T02:20:11.113000+00:00",
+                            "content": "`✅` Daily saved."
+                        },
+                        {
+                            "contentId": "1074511066131861524",
+                            "createdTimestamp": "2023-02-13T02:03:21.616000+00:00",
+                            "content": "PM <@868026993113956373>: <@921595038838951966> [HN2 - Staff] has sent a request **Đi muộn/Về sớm** for following dates:\n ```13/02/2023 [DiMuon: 1h] - Pending\n```Reason: ```em bận việc cá nhân```"
+                        },
+                        {
+                            "contentId": "1074511059605540975",
+                            "createdTimestamp": "2023-02-13T02:03:20.060000+00:00",
+                            "content": "PM <@868026993113956373>: **Phi Lê Kim** has **approved** the request: **Tuấn Nguyễn Trọng** [QN - Staff] **Nghỉ thông thường** 13/02/2023 [Morning] - All"
+                        },
+                        {
+                            "contentId": "1074511056820523028",
+                            "createdTimestamp": "2023-02-13T02:03:19.396000+00:00",
+                            "content": "PM <@868026993113956373>: **Phi Lê Kim** has **approved** the request: **Vy Phạm Xuân Khả** [QN - TTS] **Nghỉ thông thường** 13/02/2023 [Fullday] - All"
+                        },
+                        {
+                            "contentId": "1074510983730569216",
+                            "createdTimestamp": "2023-02-13T02:03:01.970000+00:00",
+                            "content": "PM <@868026993113956373>: **Phi Lê Kim** has **approved** the request: <@921602733688123412> [QN - Staff] **Đi muộn/Về sớm** 13/02/2023 [DiMuon: 0.5h] - All"
+                        },
+                        {
+                            "contentId": "1074509352947429436",
+                            "createdTimestamp": "2023-02-13T01:56:33.161000+00:00",
+                            "content": "PM <@868026993113956373>: <@921602733688123412> [QN - Staff] has sent a request **Đi muộn/Về sớm** for following dates:\n ```13/02/2023 [DiMuon: 0.5h] - Pending\n```Reason: ```em có việc đột xuất ạ```"
+                        },
+                        {
+                            "contentId": "1074507005101887568",
+                            "createdTimestamp": "2023-02-13T01:47:13.391000+00:00",
+                            "content": "PM <@868026993113956373>: **Hiếu Đỗ Hoàng** has **approved** the request: <@914030075995893760> [HN2 - Staff] **Đi muộn/Về sớm** 13/02/2023 [DiMuon: 1h] - All"
+                        },
+                        {
+                            "contentId": "1074410132944994334",
+                            "createdTimestamp": "2023-02-12T19:22:17.269000+00:00",
+                            "content": "PM <@868026993113956373>: <@914030075995893760> [HN2 - Staff] has sent a request **Đi muộn/Về sớm** for following dates:\n ```13/02/2023 [DiMuon: 1h] - Pending\n```Reason: ```em có việc bận ạ```"
+                        },
+                        {
+                            "contentId": "1074375362844295208",
+                            "createdTimestamp": "2023-02-12T17:04:07.431000+00:00",
+                            "content": "PM <@868026993113956373>: **Tuấn Nguyễn Trọng** [QN - Staff] has sent a request **Nghỉ thông thường** for following dates:\n ```14/02/2023 [Fullday] - Pending\n```Reason: ```em xin off đi học```"
+                        },
+                        {
+                            "contentId": "1074374340507873421",
+                            "createdTimestamp": "2023-02-12T17:00:03.687000+00:00",
+                            "content": "PM <@868026993113956373>: **Tuấn Nguyễn Trọng** [QN - Staff] has sent a request **Nghỉ thông thường** for following dates:\n ```13/02/2023 [Morning] - Pending\n```Reason: ```em xin off đi khám mắt```"
+                        }
+                    ]
+                },
+                {
+                    "userId": "921602733688123412",
+                    "username": "duy.nguyenxuan",
+                    "content": [
+                        {
+                            "contentId": "1074622656197959721",
+                            "createdTimestamp": "2023-02-13T09:26:46.761000+00:00",
+                            "content": "*daily trudi 13/02/2023\n- yesterday: sunday\n- today: working on TDI-1798, build desktop app and TDI-818; 8h, nt, coding\n- block: none"
+                        }
+                    ]
+                },
+                {
+                    "userId": "1041535909440520323",
+                    "username": "chi.hoangha",
+                    "content": [
+                        {
+                            "contentId": "1074619798803206184",
+                            "createdTimestamp": "2023-02-13T09:15:25.505000+00:00",
+                            "content": "*daily 13/02/2023\n- yesterday:  Sunday Sunday Sunday\n- today: check bug fixing TDI-1798, TDI-1682, TDI-1647, TDI-1487\n- block: none"
+                        }
+                    ]
+                },
+                {
+                    "userId": "922303001060864000",
+                    "username": "duc.nguyenminh",
+                    "content": [
+                        {
+                            "contentId": "1074618470190297119",
+                            "createdTimestamp": "2023-02-13T09:10:08.739000+00:00",
+                            "content": "*daily 13/02/2023\n- yesterday: off\n- today:\n   + TDI-1615\n   + TDI-1574 Suggested Response - Convert to Task - General Enquiry;8h\n- block: none"
+                        }
+                    ]
+                },
+                {
+                    "userId": "756135636448313416",
+                    "username": "kien.trinhduy",
+                    "content": [
+                        {
+                            "contentId": "1074617920916815912",
+                            "createdTimestamp": "2023-02-13T09:07:57.782000+00:00",
+                            "content": "*daily 13/02/2023\n- yesterday: Support fix bug on task TDI-1161 Message index page and work on TDI-1631 [Mobile] Keyboard should not cover the message in the conversation\n- today:  \n   + TDI-1487 [Mobile, Title] Wrong title when making emergency Outside OH\n   + TDI-1487 [Emergency contacts - Mobile] -  Bug UI of the Phone call;8h\n- block: none"
+                        }
+                    ]
+                },
+                {
+                    "userId": "868040521136873503",
+                    "username": "van.vu",
+                    "content": [
+                        {
+                            "contentId": "1074617217062281216",
+                            "createdTimestamp": "2023-02-13T09:05:09.970000+00:00",
+                            "content": "*daily trudi 13/02/2023\n- yesterday: Updated tickets for Suggested Response and check BA review column\n- today: Check BA review column and write ticket ; 7h, nt, Business Analyzing\n- block:"
+                        }
+                    ]
+                },
+                {
+                    "userId": "1018698230369898608",
+                    "username": "thien.nguyenvan",
+                    "content": [
+                        {
+                            "contentId": "1074616970089091093",
+                            "createdTimestamp": "2023-02-13T09:04:11.087000+00:00",
+                            "content": "*daily trudi 13/02/2023\n- yesterday:  The weekend;\n- today:  i am working on task TDI-1421 and change something on task TDI-1180;8h, nt, coding\n- block: none"
+                        }
+                    ]
+                },
+                {
+                    "userId": "1006026295198629888",
+                    "username": "ho.nguyenphi",
+                    "content": [
+                        {
+                            "contentId": "1074616834969583616",
+                            "createdTimestamp": "2023-02-13T09:03:38.872000+00:00",
+                            "content": "*daily 13/02/2023\n- yesterday: work on task TDI-1668, TDI-1647 (fix bug); 8h, nt, coding.\n- today: work on task TDI-1670 (fix bug); 8h, nt, coding.\n- block: none"
+                        }
+                    ]
+                },
+                {
+                    "userId": "907683333499134012",
+                    "username": "khanh.nguyenvan2",
+                    "content": [
+                        {
+                            "contentId": "1074615165284261927",
+                            "createdTimestamp": "2023-02-13T08:57:00.788000+00:00",
+                            "content": "*daily 13/02/2023\n- yesterday: off sunday;\n- today: TDI-1797 Should show Property Manager instead of Agent; Update UI Notification button; check bugs;\n- block: none;"
+                        }
+                    ]
+                },
+                {
+                    "userId": "922029091585163264",
+                    "username": "toan.nguyenviet",
+                    "content": [
+                        {
+                            "contentId": "1074615060959346698",
+                            "createdTimestamp": "2023-02-13T08:56:35.915000+00:00",
+                            "content": "*daily 13/02/2023\n- yesterday: off sunday\n- today: fix some bugs UI, read new sprint ticket and support for FE\n- block: none"
+                        }
+                    ]
+                },
+                {
+                    "userId": "921476713358176278",
+                    "username": "hieu.nguyenduc",
+                    "content": [
+                        {
+                            "contentId": "1074612869448073246",
+                            "createdTimestamp": "2023-02-13T08:47:53.418000+00:00",
+                            "content": "*daily 13/02/2023\n- yesterday: the weekend\n- today: Start working on Helpjuice knowledge base design, Trudi.ai review and Production UI review; 8h\n- block: none"
+                        }
+                    ]
+                },
+                {
+                    "userId": "983298793523019807",
+                    "username": "thuan.nguyenleanh",
+                    "content": [
+                        {
+                            "contentId": "1074612561842032700",
+                            "createdTimestamp": "2023-02-13T08:46:40.079000+00:00",
+                            "content": "*daily trudi 13/02/2023\n- yesterday: sunday\n- today: working on TDI-1683 reponsive for message index ; 8h, nt, coding\n- block: none"
+                        }
+                    ]
+                },
+                {
+                    "userId": "952756675666911282",
+                    "username": "huy.lexuan",
+                    "content": [
+                        {
+                            "contentId": "1074612048278863922",
+                            "createdTimestamp": "2023-02-13T08:44:37.636000+00:00",
+                            "content": "*daily 13/02/2023\n- yesterday: sunday\n- today: I  fix some bugs mobile apps: TDI-1692, TDI-1778 and add agencyId to setting working hour and holidays\n- block: not yet"
+                        }
+                    ]
+                },
+                {
+                    "userId": "948052832022589480",
+                    "username": "hung.leviet",
+                    "content": [
+                        {
+                            "contentId": "1074593605878042745",
+                            "createdTimestamp": "2023-02-13T07:31:20.625000+00:00",
+                            "content": "*daily 13/02/2023\n- yesterday: sunday sunday sunday            \n- today: I  working on custom trudi input;  8h\n- block: not yet"
+                        },
+                        {
+                            "contentId": "1074593439427084318",
+                            "createdTimestamp": "2023-02-13T07:30:40.940000+00:00",
+                            "content": "*daily 13/02/2023\n- yesterday: sunday                                                                                                                                                                 \n- today: working on custom trudi input; 8h\n- block: not yet"
+                        }
+                    ]
+                },
+                {
+                    "userId": "1026682431237017676",
+                    "username": "loi.huynhphuc",
+                    "content": [
+                        {
+                            "contentId": "1074585739225993219",
+                            "createdTimestamp": "2023-02-13T07:00:05.069000+00:00",
+                            "content": "*daily trudi 13/02/2023\n- yesterday: Sunday sunday\n- today: I continue research project Trudi; 8h\n- block: not yet"
+                        }
+                    ]
+                },
+                {
+                    "userId": "921595038838951966",
+                    "username": "quynh.duongthi",
+                    "content": [
+                        {
+                            "contentId": "1074583103659593778",
+                            "createdTimestamp": "2023-02-13T06:49:36.701000+00:00",
+                            "content": "*daily trudi 13/02/2023\n- yesterday: smoke test Notification on desktop app - Notification (Profile Settings), Company Details - View calendar, Email notification on product\n- today:  verify bug TDI-1795 New Enquiry email for PM, Stage+ Prod\n- block: not yet."
+                        }
+                    ]
+                },
+                {
+                    "userId": "594922137916276756",
+                    "username": "thinh.tranminh",
+                    "content": [
+                        {
+                            "contentId": "1074582934541049947",
+                            "createdTimestamp": "2023-02-13T06:48:56.380000+00:00",
+                            "content": "*daily 13/02/2023\n- yesterday:  sunday;\n- today: I working on ticket TDI-1789: TDI-1786 Task index; 8h\n- block: none;"
+                        }
+                    ]
+                },
+                {
+                    "userId": "526053362181865474",
+                    "username": "hanh.buihong",
+                    "content": [
+                        {
+                            "contentId": "1074578326204727336",
+                            "createdTimestamp": "2023-02-13T06:30:37.667000+00:00",
+                            "content": "*daily 13/02/2023\n- yesterday: Sunday Sunday Sunday \n- today: Routine Inspection (TUT-6, TUT-157); 8h\n- block: not yet"
+                        },
+                        {
+                            "contentId": "1074578275050979429",
+                            "createdTimestamp": "2023-02-13T06:30:25.471000+00:00",
+                            "content": "*daily 13/02/2023\n- yesterday: Sunday \n- today: Routine Inspection (TUT-6, TUT-157); 8h\n- block: not yet"
+                        }
+                    ]
+                },
+                {
+                    "userId": "948053220226367507",
+                    "username": "hieu.nguyendinh",
+                    "content": [
+                        {
+                            "contentId": "1074578003511754752",
+                            "createdTimestamp": "2023-02-13T06:29:20.731000+00:00",
+                            "content": "*daily trudi 13/02/2023\n- yesterday: none\n- today: TDI-1690 Message index page - Real time display, TDI-1485; 8h, nt, coding\n- block: none"
+                        }
+                    ]
+                },
+                {
+                    "userId": "1021241449490165761",
+                    "username": "minh.phamanh",
+                    "content": [
+                        {
+                            "contentId": "1074577513931620362",
+                            "createdTimestamp": "2023-02-13T06:27:24.006000+00:00",
+                            "content": "*daily 13/02/2023\n- yesterday: Sunday \n- today: adjusting designs for TUT-173, TUT-137, TUT-161; 8h\n- block: not yet"
+                        }
+                    ]
+                },
+                {
+                    "userId": "922332557759098931",
+                    "username": "an.lethihong",
+                    "content": [
+                        {
+                            "contentId": "1074577477722198086",
+                            "createdTimestamp": "2023-02-13T06:27:15.373000+00:00",
+                            "content": "*daily 13/02/2023\n- yesterday:  Sunday\n- today: review dev demo ticket TDI-1789, review ticket TDI-1790\n- block: none"
+                        }
+                    ]
+                },
+                {
+                    "userId": "921597682190016572",
+                    "username": "anh.doviet",
+                    "content": [
+                        {
+                            "contentId": "1074575640809975899",
+                            "createdTimestamp": "2023-02-13T06:19:57.419000+00:00",
+                            "content": "*daily 13/02/2023\n- yesterday: sunday sunday sunday\n- today: testing Message Index - Task Index, checking DF;8h\n- block: not yet"
+                        }
+                    ]
+                },
+                {
+                    "userId": "914030075995893760",
+                    "username": "thanh.phamtrong",
+                    "content": [
+                        {
+                            "contentId": "1074574464714539038",
+                            "createdTimestamp": "2023-02-13T06:15:17.016000+00:00",
+                            "content": "*daily trudi 13/02/2023\n- yesterday: deploy prod\n- today:  fix bug TDI-1795 New Enquiry email for PM, Stage+ Prod\n- block: not yet."
+                        }
+                    ]
+                },
+                {
+                    "userId": "921585406305271818",
+                    "username": "hai.ngodang",
+                    "content": [
+                        {
+                            "contentId": "1074574376567058435",
+                            "createdTimestamp": "2023-02-13T06:14:56+00:00",
+                            "content": "*daily trudi 13/02/2023\n- yesterday: deploy prod\n- today:  fix bug TDI-1797, test temp data for TDI-1180\n- block: not yet."
+                        }
+                    ]
+                },
+                {
+                    "userId": "868020036588163082",
+                    "username": "thao.vuthiphuong",
+                    "content": [
+                        {
+                            "contentId": "1074572714913828925",
+                            "createdTimestamp": "2023-02-13T06:08:19.831000+00:00",
+                            "content": "*daily 13/02/2020\n- yesterday: check ticket in ready for dev and BA review, \n- today: check BA review column, create ticket for Automation testing \n- block: none"
+                        },
+                        {
+                            "contentId": "1074571299097149450",
+                            "createdTimestamp": "2023-02-13T06:02:42.274000+00:00",
+                            "content": "*daily 12/02/2020\n- yesterday: check ticket in ready for dev and BA review, \n- today: check BA review column, create ticket for Automation testing \n- block: none"
+                        }
+                    ]
+                },
+                {
+                    "userId": "1003495597086609529",
+                    "username": "lieu.lethihong",
+                    "content": [
+                        {
+                            "contentId": "1074536574278180944",
+                            "createdTimestamp": "2023-02-13T03:44:43.232000+00:00",
+                            "content": "*daily 13/02/2023\n- yesterday: sunday;\n- today:  I work on bug TDI-1179 : Tasks Index Page( wrong display item in sidebar);8h\n- block: none"
+                        }
+                    ]
+                },
+                {
+                    "userId": "555390054223052800",
+                    "username": "khanh.vungoc",
+                    "content": [
+                        {
+                            "contentId": "1074534195512234115",
+                            "createdTimestamp": "2023-02-13T03:35:16.090000+00:00",
+                            "content": "*daily trudi 13/02/2023\n- yesterday: check bug TDI-1681, update DF \n- today:  TDI-1693, [App]Update Trudi Response - Ticket Flows; 8h\n- block: not yet"
+                        }
+                    ]
+                },
+                {
+                    "userId": "763025257258025001",
+                    "username": "anh.letien",
+                    "content": [
+                        {
+                            "contentId": "1074525794908504115",
+                            "createdTimestamp": "2023-02-13T03:01:53.230000+00:00",
+                            "content": "*daily 13/02/2023\n- yesterday:  sunday;\n- today: I working on ticket TDI-1789: Response Emergency - outside office hours (on H.G.Fenton agency) is displayed overlapping on Portal; 8h\n- block: none;"
+                        }
+                    ]
+                },
+                {
+                    "userId": "922119214121234432",
+                    "username": "dung.dangtien",
+                    "content": [
+                        {
+                            "contentId": "1074520160754466936",
+                            "createdTimestamp": "2023-02-13T02:39:29.943000+00:00",
+                            "content": "*daily 13/02/2023\n- yesterday:  Update new step select task, update qa bond refund TDI 1788\n- today: update maintenance step for TDI -978\n- block: none"
+                        }
+                    ]
+                },
+                {
+                    "userId": "998414531736895509",
+                    "username": "van.takhanh",
+                    "content": [
+                        {
+                            "contentId": "1074519847846805538",
+                            "createdTimestamp": "2023-02-13T02:38:15.340000+00:00",
+                            "content": "*daily 13/02/2023\n- yesterday:  Sunday\n- today: check BA column, ready for dev column, fulfill AC for TUT-182, TUT-186, TUT-181, TUT-173, TUT-163\n- block: none"
+                        }
+                    ]
+                },
+                {
+                    "userId": "921631319144927273",
+                    "username": "thu.leanh",
+                    "content": [
+                        {
+                            "contentId": "1074517768633843782",
+                            "createdTimestamp": "2023-02-13T02:29:59.617000+00:00",
+                            "content": "*daily 13/02/2023\n- yesterday:  Update the response for Q&A features.\n- today: Retest Bond Refund, update maintenance step for TDI -978\n- block: none"
+                        }
+                    ]
+                },
+                {
+                    "userId": "922909563454382151",
+                    "username": "anh.buiquynh",
+                    "content": [
+                        {
+                            "contentId": "1074515919084191814",
+                            "createdTimestamp": "2023-02-13T02:22:38.650000+00:00",
+                            "content": "*daily 13/02/2023\n- yesterday: Sunday - off\n- today: handling tickets: TUT-177, TUT-170, TUT-176; 8h\n- block: none"
+                        }
+                    ]
+                },
+                {
+                    "userId": "986803192455135262",
+                    "username": "hang.nguyenthu",
+                    "content": [
+                        {
+                            "contentId": "1074515297916174407",
+                            "createdTimestamp": "2023-02-13T02:20:10.552000+00:00",
+                            "content": "*daily 13/02/2023\n- yesterday: Sunday - off\n- today: Message & Task Index: retest TDI-1164, [1161]; 8h\n- block: none"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "chanelId": "1039467743059136543",
+            "data": [
+                {
+                    "userId": "1011098797667008593",
+                    "username": "phuong.nguyenhonghang",
+                    "content": [
+                        {
+                            "contentId": "1074622332880027688",
+                            "createdTimestamp": "2023-02-13T09:25:29.676000+00:00",
+                            "content": "bug 41464 là chị mới phát hiện khi update testcase cho talent nhé. Cái này không quan trọng lắm."
+                        }
+                    ]
+                },
+                {
+                    "userId": "922003239887581205",
+                    "username": "KOMU",
+                    "content": [
+                        {
+                            "contentId": "1074616178292564068",
+                            "createdTimestamp": "2023-02-13T09:01:02.308000+00:00",
+                            "content": "`✅` Daily saved."
+                        },
+                        {
+                            "contentId": "1074535638327627839",
+                            "createdTimestamp": "2023-02-13T03:41:00.084000+00:00",
+                            "content": "`✅` Daily saved."
+                        },
+                        {
+                            "contentId": "1074516516701220874",
+                            "createdTimestamp": "2023-02-13T02:25:01.133000+00:00",
+                            "content": "@here our meeting room is <#921343843792715778>"
+                        },
+                        {
+                            "contentId": "1074502403883290704",
+                            "createdTimestamp": "2023-02-13T01:28:56.375000+00:00",
+                            "content": "`✅` Daily saved."
+                        }
+                    ]
+                },
+                {
+                    "userId": "1047698806705233950",
+                    "username": "nhu.nguythitam",
+                    "content": [
+                        {
+                            "contentId": "1074616176325439508",
+                            "createdTimestamp": "2023-02-13T09:01:01.839000+00:00",
+                            "content": "*daily 13/02/2023\n- yesterday:   research project talent\n- today:  research project talent; 8h,nt, coding.\n- block: none"
+                        }
+                    ]
+                },
+                {
+                    "userId": "1009281085965865070",
+                    "username": "phuc.dangvinh",
+                    "content": [
+                        {
+                            "contentId": "1074578421209907250",
+                            "createdTimestamp": "2023-02-13T06:31:00.318000+00:00",
+                            "content": "OK em."
+                        },
+                        {
+                            "contentId": "1074502401601568838",
+                            "createdTimestamp": "2023-02-13T01:28:55.831000+00:00",
+                            "content": "*daily erp-talent 13/02/2023\n- yesterday: do task #41133 (Add new feature: Clone for Candidate)\n- today: continue  do task #41133; 8h, nt, coding\n- block:"
+                        }
+                    ]
+                },
+                {
+                    "userId": "921633354133143712",
+                    "username": "phi.lekim",
+                    "content": [
+                        {
+                            "contentId": "1074576187499749376",
+                            "createdTimestamp": "2023-02-13T06:22:07.760000+00:00",
+                            "content": "còn nhiều task mới nữa anh ạ nên call để share với support sớm cho"
+                        },
+                        {
+                            "contentId": "1074576109452140544",
+                            "createdTimestamp": "2023-02-13T06:21:49.152000+00:00",
+                            "content": "a <@1009281085965865070> ơi xíu a join call để em support nha anh"
+                        },
+                        {
+                            "contentId": "1074517447807336539",
+                            "createdTimestamp": "2023-02-13T02:28:43.126000+00:00",
+                            "content": "<@1047698806705233950> <@913776186453274634> daily các em ơi"
+                        },
+                        {
+                            "contentId": "1074506185715236965",
+                            "createdTimestamp": "2023-02-13T01:43:58.034000+00:00",
+                            "content": "<@913776186453274634> ơi em hướng dẫn bạn như chạy project fe nhé. thanks e"
+                        }
+                    ]
+                },
+                {
+                    "userId": "913776186453274634",
+                    "username": "khanh.lesy",
+                    "content": [
+                        {
+                            "contentId": "1074535635970437140",
+                            "createdTimestamp": "2023-02-13T03:40:59.522000+00:00",
+                            "content": "*daily 13/02/2023\n- yesterday:   research requisition intern ; 8h,nt, coding\n- today:  research module candidate; 8h,nt, coding.\n- block: none"
+                        },
+                        {
+                            "contentId": "1074506624439422986",
+                            "createdTimestamp": "2023-02-13T01:45:42.634000+00:00",
+                            "content": "vâng a"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "chanelId": "922318537987596309",
+            "data": [
+                {
+                    "userId": "922003239887581205",
+                    "username": "KOMU",
+                    "content": [
+                        {
+                            "contentId": "1074548456774979636",
+                            "createdTimestamp": "2023-02-13T04:31:56.240000+00:00",
+                            "content": "`✅` Daily saved."
+                        },
+                        {
+                            "contentId": "1074536197453516870",
+                            "createdTimestamp": "2023-02-13T03:43:13.390000+00:00",
+                            "content": "`✅` Daily saved."
+                        },
+                        {
+                            "contentId": "1074517769036517397",
+                            "createdTimestamp": "2023-02-13T02:29:59.713000+00:00",
+                            "content": "`✅` Daily saved."
+                        }
+                    ]
+                },
+                {
+                    "userId": "507470640010493953",
+                    "username": "vinh.nguyenquoc3",
+                    "content": [
+                        {
+                            "contentId": "1074548453994143835",
+                            "createdTimestamp": "2023-02-13T04:31:55.577000+00:00",
+                            "content": "*daily 13/02/2023\n- yesterday: 30645 Honeypot ```https://github.com/onOffice-Web-Org/oo-wp-plugin/issues/446```\n- today: 30645 Honeypot ```https://github.com/onOffice-Web-Org/oo-wp-plugin/issues/446```; 8h, nt, coding\n- block: none;"
+                        }
+                    ]
+                },
+                {
+                    "userId": "1011098797667008593",
+                    "username": "phuong.nguyenhonghang",
+                    "content": [
+                        {
+                            "contentId": "1074536193905139732",
+                            "createdTimestamp": "2023-02-13T03:43:12.544000+00:00",
+                            "content": "*daily 13/02/2023\n- yesterday:   Đọc issue #450 \"breitengrad\" leads to UnknownFieldException\n- today: Đọc - hiểu issue 30645 - Honeypot; 8h, nt, testing\n- block: Mới hiểu cách test vài case của Honeypot, còn case chính vẫn chưa biết cách test như thế nào;"
+                        }
+                    ]
+                },
+                {
+                    "userId": "922306295346921552",
+                    "username": "yen.nguyenthi",
+                    "content": [
+                        {
+                            "contentId": "1074517765400043562",
+                            "createdTimestamp": "2023-02-13T02:29:58.846000+00:00",
+                            "content": "*daily 09/02/2023\n- yesterday:review issue 414. \n- today:  review issue 414, khách yêu cầu focus issue 446 và chạy ngon vào cuối chu kì\n- block: none"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "userInfo": [
+        {
+            "id": "466908428539789332",
+            "bot": false,
+            "system": false,
+            "flags": 0,
+            "username": "tam.daonhon",
+            "discriminator": "3706",
+            "avatar": "a7f679af3e8bc9c05bee5cd5d7e3e4ed",
+            "createdTimestamp": 1531390044103,
+            "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/1.png",
+            "tag": "tam.daonhon#3706",
+            "avatarURL": "https://cdn.discordapp.com/avatars/466908428539789332/a7f679af3e8bc9c05bee5cd5d7e3e4ed.webp",
+            "displayAvatarURL": "https://cdn.discordapp.com/avatars/466908428539789332/a7f679af3e8bc9c05bee5cd5d7e3e4ed.webp",
+            "existInSeverity": true
+        },
+        {
+            "id": "507470640010493953",
+            "bot": false,
+            "system": false,
+            "flags": 0,
+            "username": "vinh.nguyenquoc3",
+            "discriminator": "7219",
+            "avatar": "4e301db3d2d5a1c0005c3fe5eb9eccea",
+            "createdTimestamp": 1541060828927,
+            "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/4.png",
+            "tag": "vinh.nguyenquoc3#7219",
+            "avatarURL": "https://cdn.discordapp.com/avatars/507470640010493953/4e301db3d2d5a1c0005c3fe5eb9eccea.webp",
+            "displayAvatarURL": "https://cdn.discordapp.com/avatars/507470640010493953/4e301db3d2d5a1c0005c3fe5eb9eccea.webp",
+            "existInSeverity": true
+        },
+        {
+            "id": "756135636448313416",
+            "bot": false,
+            "system": false,
+            "flags": 0,
+            "username": "kien.trinhduy",
+            "discriminator": "9496",
+            "avatar": "9219dcbe9e78376e5454bc5fae533a93",
+            "createdTimestamp": 1600347184050,
+            "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/1.png",
+            "tag": "kien.trinhduy#9496",
+            "avatarURL": "https://cdn.discordapp.com/avatars/756135636448313416/9219dcbe9e78376e5454bc5fae533a93.webp",
+            "displayAvatarURL": "https://cdn.discordapp.com/avatars/756135636448313416/9219dcbe9e78376e5454bc5fae533a93.webp",
+            "hasRemindDaily": true,
+            "chanelRemindId": [
+                "922187393757487134"
+            ],
+            "existInSeverity": true
+        },
+        {
+            "id": "952756675666911282",
+            "bot": false,
+            "system": false,
+            "flags": 0,
+            "username": "huy.lexuan",
+            "discriminator": "4494",
+            "avatar": "85e554f801a5ee9c59cd5380540e473f",
+            "createdTimestamp": 1647225292842,
+            "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/4.png",
+            "tag": "huy.lexuan#4494",
+            "avatarURL": "https://cdn.discordapp.com/avatars/952756675666911282/85e554f801a5ee9c59cd5380540e473f.webp",
+            "displayAvatarURL": "https://cdn.discordapp.com/avatars/952756675666911282/85e554f801a5ee9c59cd5380540e473f.webp",
+            "hasRemindDaily": true,
+            "chanelRemindId": [
+                "922187393757487134"
+            ],
+            "existInSeverity": true
+        },
+        {
+            "id": "983298793523019807",
+            "bot": false,
+            "system": false,
+            "flags": 0,
+            "username": "thuan.nguyenleanh",
+            "discriminator": "9828",
+            "avatar": "6d0a16818696dbf53e66262dc9219db4",
+            "createdTimestamp": 1654507101184,
+            "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/3.png",
+            "tag": "thuan.nguyenleanh#9828",
+            "avatarURL": "https://cdn.discordapp.com/avatars/983298793523019807/6d0a16818696dbf53e66262dc9219db4.webp",
+            "displayAvatarURL": "https://cdn.discordapp.com/avatars/983298793523019807/6d0a16818696dbf53e66262dc9219db4.webp",
+            "hasRemindDaily": true,
+            "chanelRemindId": [
+                "922187393757487134"
+            ],
+            "existInSeverity": true
+        },
+        {
+            "id": "1006026112633159691",
+            "bot": false,
+            "system": false,
+            "flags": 0,
+            "username": "tuan.nguyentrong",
+            "discriminator": "2184",
+            "avatar": "eaf2698af6b5307664d26a8ffea47304",
+            "createdTimestamp": 1659925716313,
+            "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/4.png",
+            "tag": "tuan.nguyentrong#2184",
+            "avatarURL": "https://cdn.discordapp.com/avatars/1006026112633159691/eaf2698af6b5307664d26a8ffea47304.webp",
+            "displayAvatarURL": "https://cdn.discordapp.com/avatars/1006026112633159691/eaf2698af6b5307664d26a8ffea47304.webp",
+            "chanelRemindId": [
+                "922187393757487134"
+            ],
+            "hasRemindDaily": true,
+            "existInSeverity": true
+        },
+        {
+            "id": "1009281085965865070",
+            "bot": false,
+            "system": false,
+            "flags": 0,
+            "username": "phuc.dangvinh",
+            "discriminator": "1104",
+            "avatar": "7492de15327d7da4d304a57039e4f4e4",
+            "createdTimestamp": 1660701762430,
+            "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/4.png",
+            "tag": "phuc.dangvinh#1104",
+            "avatarURL": "https://cdn.discordapp.com/avatars/1009281085965865070/7492de15327d7da4d304a57039e4f4e4.webp",
+            "displayAvatarURL": "https://cdn.discordapp.com/avatars/1009281085965865070/7492de15327d7da4d304a57039e4f4e4.webp",
+            "chanelRemindId": [
+                "1039467743059136543"
+            ],
+            "hasRemindDaily": true,
+            "existInSeverity": true
+        },
+        {
+            "id": "1011098797667008593",
+            "bot": false,
+            "system": false,
+            "flags": 0,
+            "username": "phuong.nguyenhonghang",
+            "discriminator": "1462",
+            "avatar": "ea2b931a00c22388aed0bb002e8ca08a",
+            "createdTimestamp": 1661135138671,
+            "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/2.png",
+            "tag": "phuong.nguyenhonghang#1462",
+            "avatarURL": "https://cdn.discordapp.com/avatars/1011098797667008593/ea2b931a00c22388aed0bb002e8ca08a.webp",
+            "displayAvatarURL": "https://cdn.discordapp.com/avatars/1011098797667008593/ea2b931a00c22388aed0bb002e8ca08a.webp",
+            "chanelRemindId": [
+                "922318537987596309"
+            ],
+            "hasRemindDaily": true,
+            "existInSeverity": true
+        },
+        {
+            "id": "1026682431237017676",
+            "bot": false,
+            "system": false,
+            "flags": 0,
+            "username": "loi.huynhphuc",
+            "discriminator": "3265",
+            "avatar": "49c2007f30a83b0003aafff0be49e407",
+            "createdTimestamp": 1664850566444,
+            "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/0.png",
+            "tag": "loi.huynhphuc#3265",
+            "avatarURL": "https://cdn.discordapp.com/avatars/1026682431237017676/49c2007f30a83b0003aafff0be49e407.webp",
+            "displayAvatarURL": "https://cdn.discordapp.com/avatars/1026682431237017676/49c2007f30a83b0003aafff0be49e407.webp",
+            "chanelRemindId": [],
+            "hasRemindDaily": true,
+            "existInSeverity": true
+        },
+        {
+            "id": "1026683784030072882",
+            "bot": false,
+            "system": false,
+            "flags": 0,
+            "username": "huy.trannam",
+            "discriminator": "7298",
+            "avatar": "4d7462c946348573fdcfe9ba9bd575a2",
+            "createdTimestamp": 1664850888975,
+            "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/3.png",
+            "tag": "huy.trannam#7298",
+            "avatarURL": "https://cdn.discordapp.com/avatars/1026683784030072882/4d7462c946348573fdcfe9ba9bd575a2.webp",
+            "displayAvatarURL": "https://cdn.discordapp.com/avatars/1026683784030072882/4d7462c946348573fdcfe9ba9bd575a2.webp",
+            "existInSeverity": true
+        },
+        {
+            "id": "1033936809400475708",
+            "bot": false,
+            "system": false,
+            "flags": 0,
+            "username": "thuy.phamthiminh",
+            "discriminator": "9536",
+            "avatar": "343655f7a12ed8dc6d25812845bf2c58",
+            "createdTimestamp": 1666580144978,
+            "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/1.png",
+            "tag": "thuy.phamthiminh#9536",
+            "avatarURL": "https://cdn.discordapp.com/avatars/1033936809400475708/343655f7a12ed8dc6d25812845bf2c58.webp",
+            "displayAvatarURL": "https://cdn.discordapp.com/avatars/1033936809400475708/343655f7a12ed8dc6d25812845bf2c58.webp",
+            "existInSeverity": true
+        },
+        {
+            "id": "691682283056398377",
+            "bot": false,
+            "system": false,
+            "flags": 0,
+            "username": "vy.phamxuankha",
+            "discriminator": "8546",
+            "avatar": "894cf544fe6ff9428cd101f62fcde9ef",
+            "hasRemindDaily": true,
+            "chanelRemindId": [
+                "922187393757487134",
+                "1039467743059136543",
+                "974527603581005854"
+            ],
+            "createdTimestamp": 1584980307116,
+            "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/1.png",
+            "tag": "vy.phamxuankha#8546",
+            "avatarURL": "https://cdn.discordapp.com/avatars/691682283056398377/894cf544fe6ff9428cd101f62fcde9ef.webp",
+            "displayAvatarURL": "https://cdn.discordapp.com/avatars/691682283056398377/894cf544fe6ff9428cd101f62fcde9ef.webp",
+            "existInSeverity": true
+        },
+        {
+            "id": "921602733688123412",
+            "bot": false,
+            "system": false,
+            "flags": 0,
+            "username": "duy.nguyenxuan",
+            "discriminator": "9535",
+            "avatar": "c596f29623c97f1d0203b249ea328b0b",
+            "createdTimestamp": 1639797614262,
+            "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/0.png",
+            "tag": "duy.nguyenxuan#9535",
+            "avatarURL": "https://cdn.discordapp.com/avatars/921602733688123412/c596f29623c97f1d0203b249ea328b0b.webp",
+            "displayAvatarURL": "https://cdn.discordapp.com/avatars/921602733688123412/c596f29623c97f1d0203b249ea328b0b.webp",
+            "hasRemindDaily": true,
+            "chanelRemindId": [
+                "922187393757487134"
+            ],
+            "existInSeverity": true
+        },
+        {
+            "id": "1018698230369898608",
+            "bot": false,
+            "system": false,
+            "flags": 0,
+            "username": "thien.nguyenvan",
+            "discriminator": "9506",
+            "avatar": "d50892843f6278c85b8f0198155e2c3c",
+            "createdTimestamp": 1662946984618,
+            "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/1.png",
+            "tag": "thien.nguyenvan#9506",
+            "avatarURL": "https://cdn.discordapp.com/avatars/1018698230369898608/d50892843f6278c85b8f0198155e2c3c.webp",
+            "displayAvatarURL": "https://cdn.discordapp.com/avatars/1018698230369898608/d50892843f6278c85b8f0198155e2c3c.webp",
+            "chanelRemindId": [
+                "922187393757487134"
+            ],
+            "hasRemindDaily": true,
+            "existInSeverity": true
+        },
+        {
+            "id": "1003495597086609529",
+            "bot": false,
+            "system": false,
+            "flags": 0,
+            "username": "lieu.lethihong",
+            "discriminator": "3235",
+            "avatar": "e80d103417d77910a757d0c1802e01e8",
+            "createdTimestamp": 1659322394392,
+            "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/0.png",
+            "tag": "lieu.lethihong#3235",
+            "avatarURL": "https://cdn.discordapp.com/avatars/1003495597086609529/e80d103417d77910a757d0c1802e01e8.webp",
+            "displayAvatarURL": "https://cdn.discordapp.com/avatars/1003495597086609529/e80d103417d77910a757d0c1802e01e8.webp",
+            "hasRemindDaily": true,
+            "chanelRemindId": [
+                "922187393757487134"
+            ],
+            "existInSeverity": true
+        },
+        {
+            "id": "913776186453274634",
+            "bot": false,
+            "system": false,
+            "flags": 0,
+            "username": "khanh.lesy",
+            "discriminator": "4445",
+            "avatar": "22adb24c20b5611745883cc1e55c93f6",
+            "createdTimestamp": 1637931619991,
+            "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/0.png",
+            "tag": "khanh.lesy#4445",
+            "avatarURL": "https://cdn.discordapp.com/avatars/913776186453274634/22adb24c20b5611745883cc1e55c93f6.webp",
+            "displayAvatarURL": "https://cdn.discordapp.com/avatars/913776186453274634/22adb24c20b5611745883cc1e55c93f6.webp",
+            "hasRemindDaily": true,
+            "chanelRemindId": [
+                "1039467743059136543"
+            ],
+            "existInSeverity": true
+        },
+        {
+            "id": "948053220226367507",
+            "bot": false,
+            "system": false,
+            "flags": 0,
+            "username": "hieu.nguyendinh",
+            "discriminator": "7980",
+            "avatar": "4c6c430ab2a5a4286110ee00e95a497a",
+            "createdTimestamp": 1646103901679,
+            "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/0.png",
+            "tag": "hieu.nguyendinh#7980",
+            "avatarURL": "https://cdn.discordapp.com/avatars/948053220226367507/4c6c430ab2a5a4286110ee00e95a497a.webp",
+            "displayAvatarURL": "https://cdn.discordapp.com/avatars/948053220226367507/4c6c430ab2a5a4286110ee00e95a497a.webp",
+            "hasRemindDaily": true,
+            "chanelRemindId": [
+                "922187393757487134"
+            ],
+            "existInSeverity": true
+        },
+        {
+            "id": "1041535909440520323",
+            "bot": false,
+            "system": false,
+            "flags": 0,
+            "username": "chi.hoangha",
+            "discriminator": "2432",
+            "avatar": "63c6b2e3f887881e985839b28d17badb",
+            "createdTimestamp": 1668391911612,
+            "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/2.png",
+            "tag": "chi.hoangha#2432",
+            "avatarURL": "https://cdn.discordapp.com/avatars/1041535909440520323/63c6b2e3f887881e985839b28d17badb.webp",
+            "displayAvatarURL": "https://cdn.discordapp.com/avatars/1041535909440520323/63c6b2e3f887881e985839b28d17badb.webp",
+            "hasRemindDaily": true,
+            "chanelRemindId": [
+                "922187393757487134"
+            ],
+            "existInSeverity": true
+        },
+        {
+            "id": "555390054223052800",
+            "bot": false,
+            "system": false,
+            "flags": 0,
+            "username": "khanh.vungoc",
+            "discriminator": "8010",
+            "avatar": "1b56cc4ceea6169b34516391d445e406",
+            "createdTimestamp": 1552485707575,
+            "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/0.png",
+            "tag": "khanh.vungoc#8010",
+            "avatarURL": "https://cdn.discordapp.com/avatars/555390054223052800/1b56cc4ceea6169b34516391d445e406.webp",
+            "displayAvatarURL": "https://cdn.discordapp.com/avatars/555390054223052800/1b56cc4ceea6169b34516391d445e406.webp",
+            "hasRemindDaily": true,
+            "chanelRemindId": [
+                "922187393757487134"
+            ],
+            "existInSeverity": true
+        },
+        {
+            "id": "998414531736895509",
+            "bot": false,
+            "system": false,
+            "flags": 0,
+            "username": "van.takhanh",
+            "discriminator": "8191",
+            "avatar": "1963ad4bca2e3187bdd583f459991093",
+            "createdTimestamp": 1658110974011,
+            "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/1.png",
+            "tag": "van.takhanh#8191",
+            "avatarURL": "https://cdn.discordapp.com/avatars/998414531736895509/1963ad4bca2e3187bdd583f459991093.webp",
+            "displayAvatarURL": "https://cdn.discordapp.com/avatars/998414531736895509/1963ad4bca2e3187bdd583f459991093.webp",
+            "existInSeverity": false,
+            "hasRemindDaily": true,
+            "chanelRemindId": [
+                "922187393757487134"
+            ]
+        },
+        {
+            "id": "921595038838951966",
+            "bot": false,
+            "system": false,
+            "flags": 0,
+            "username": "quynh.duongthi",
+            "discriminator": "7979",
+            "avatar": "5f91957cd255f387c1f1b8d3d7b5a47a",
+            "createdTimestamp": 1639795779667,
+            "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/4.png",
+            "tag": "quynh.duongthi#7979",
+            "avatarURL": "https://cdn.discordapp.com/avatars/921595038838951966/5f91957cd255f387c1f1b8d3d7b5a47a.webp",
+            "displayAvatarURL": "https://cdn.discordapp.com/avatars/921595038838951966/5f91957cd255f387c1f1b8d3d7b5a47a.webp",
+            "existInSeverity": true,
+            "hasRemindDaily": true,
+            "chanelRemindId": [
+                "922187393757487134"
+            ]
+        }
+    ],
+    "chanelRemind": [
+        {
+            "authorization": "NjkxNjgyMjgzMDU2Mzk4Mzc3.GDxU9M.GvZZ7l9YzN_IvmY0JVGAZN91kSkmtgc8GZrFIM",
+            "chanelId": "974527603581005854",
+            "getChanel": {
+                "id": "974527603581005854",
+                "guild_id": "921239248991055882",
+                "parent_id": "974526724312281148",
+                "owner_id": "921633354133143712",
+                "type": 11,
+                "name": "daily",
+                "last_message_id": "1073596655644983366",
+                "thread_metadata": {
+                    "archived": false,
+                    "archive_timestamp": "2022-08-21T13:19:48.566000+00:00",
+                    "auto_archive_duration": 1440,
+                    "locked": false,
+                    "create_timestamp": "2022-05-13T04:24:46.541000+00:00"
+                },
+                "message_count": 4020,
+                "member_count": 24,
+                "rate_limit_per_user": 0,
+                "flags": 0,
+                "total_message_sent": 4063,
+                "member": {
+                    "id": "974527603581005854",
+                    "flags": 1,
+                    "join_timestamp": "2022-10-24T09:40:12.496000+00:00",
+                    "user_id": "691682283056398377",
+                    "muted": false,
+                    "mute_config": null
+                },
+                "last_pin_timestamp": "2022-10-17T01:52:27+00:00",
+                "member_ids_preview": [
+                    "466908428539789332",
+                    "922003239887581205",
+                    "921633354133143712",
+                    "763025257258025001",
+                    "588009378758656020"
+                ]
+            },
+            "parentChanel": {
+                "id": "974526724312281148",
+                "last_message_id": "1073553050997891162",
+                "default_thread_rate_limit_per_user": 0,
+                "type": 0,
+                "name": "quynhon-training",
+                "position": 32,
+                "flags": 0,
+                "parent_id": "921618674698301472",
+                "topic": null,
+                "guild_id": "921239248991055882",
+                "permission_overwrites": [
+                    {
+                        "id": "1003495597086609529",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1026682431237017676",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1006550916587065354",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1006026295198629888",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "921581863083073596",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1047698806705233950",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "691682283056398377",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "466908428539789332",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "921633354133143712",
+                        "type": 1,
+                        "allow": "268436496",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1026322739356774430",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "983193101101318144",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "922310589865410610",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "983298793523019807",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1018698230369898608",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "948042627721351178",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1041536328204038184",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1006026112633159691",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "921585573901254727",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "913776186453274634",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1026683784030072882",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "921600903344169021",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1009281085965865070",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "921239248991055882",
+                        "type": 0,
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "id": "921602733688123412",
+                        "type": 1,
+                        "allow": "535529258065",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "921606798526517279",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "588009378758656020",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1033936809400475708",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "763025257258025001",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "952756675666911282",
+                        "type": 1,
+                        "allow": "535529258065",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1011098797667008593",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "951010111592235018",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    }
+                ],
+                "last_pin_timestamp": "2022-12-16T10:43:59+00:00",
+                "rate_limit_per_user": 0,
+                "nsfw": false
+            }
+        },
+        {
+            "authorization": "NjkxNjgyMjgzMDU2Mzk4Mzc3.GDxU9M.GvZZ7l9YzN_IvmY0JVGAZN91kSkmtgc8GZrFIM",
+            "chanelId": "922187393757487134",
+            "getChanel": {
+                "id": "922187393757487134",
+                "guild_id": "921239248991055882",
+                "parent_id": "922150716401918023",
+                "owner_id": "868026993113956373",
+                "type": 11,
+                "name": "daily-report",
+                "last_message_id": "1073636080999485470",
+                "thread_metadata": {
+                    "archived": false,
+                    "archive_timestamp": "2022-07-30T15:34:49.902000+00:00",
+                    "auto_archive_duration": 1440,
+                    "locked": false
+                },
+                "message_count": 11480,
+                "member_count": 44,
+                "rate_limit_per_user": 0,
+                "flags": 0,
+                "total_message_sent": 11688,
+                "member": {
+                    "id": "922187393757487134",
+                    "flags": 1,
+                    "join_timestamp": "2022-11-22T10:00:02.024000+00:00",
+                    "user_id": "691682283056398377",
+                    "muted": false,
+                    "mute_config": null
+                },
+                "member_ids_preview": [
+                    "921596439715524618",
+                    "526053362181865474",
+                    "594922137916276756",
+                    "555390054223052800",
+                    "868026993113956373"
+                ]
+            },
+            "parentChanel": {
+                "id": "922150716401918023",
+                "last_message_id": "1073603131570663474",
+                "default_auto_archive_duration": 10080,
+                "type": 0,
+                "name": "trudi",
+                "position": 31,
+                "flags": 0,
+                "parent_id": "942986985553932338",
+                "topic": null,
+                "guild_id": "921239248991055882",
+                "permission_overwrites": [
+                    {
+                        "id": "868027478394933259",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "921239248991055882",
+                        "type": 0,
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "id": "361429367932583938",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "921750690391531540",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "907683333499134012",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "921591525585072138",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "921597682190016572",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1003495597086609529",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "922119214121234432",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "998414531736895509",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "922029091585163264",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "921665170055528489",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "921631319144927273",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "868026993113956373",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1041535909440520323",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1006026295198629888",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "868040521136873503",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "555390054223052800",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "948053220226367507",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "914030075995893760",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "921643778421440532",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "948052832022589480",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "763025257258025001",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1018698230369898608",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "921602733688123412",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "921633354133143712",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "756135636448313416",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "691682283056398377",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "922303001060864000",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "866708547173875742",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "921476713358176278",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "526053362181865474",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "983298793523019807",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "986803192455135262",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1006026112633159691",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1026682431237017676",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "921596439715524618",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "921579736520609832",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "976307176102563840",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1021241449490165761",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "922909563454382151",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "916873918093070356",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "921595038838951966",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "594922137916276756",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "922332557759098931",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "868020036588163082",
+                        "type": 1,
+                        "allow": "274877910033",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "952756675666911282",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "921585406305271818",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    }
+                ],
+                "last_pin_timestamp": "2022-12-14T09:12:36+00:00",
+                "rate_limit_per_user": 0,
+                "nsfw": false
+            }
+        },
+        {
+            "authorization": "MTAwOTI4MTA4NTk2NTg2NTA3MA.GhPARo.spd6OM28aGNhL845FqpJ3s2Op-GnO20iA288rI",
+            "chanelId": "1039467743059136543",
+            "getChanel": {
+                "id": "1039467743059136543",
+                "guild_id": "921239248991055882",
+                "parent_id": "1039430602723704944",
+                "owner_id": "921633354133143712",
+                "type": 11,
+                "name": "daily",
+                "last_message_id": "1073520598875131974",
+                "thread_metadata": {
+                    "archived": false,
+                    "archive_timestamp": "2022-11-08T09:13:42.322000+00:00",
+                    "auto_archive_duration": 1440,
+                    "locked": false,
+                    "create_timestamp": "2022-11-08T09:13:42.322000+00:00"
+                },
+                "message_count": 1986,
+                "member_count": 12,
+                "rate_limit_per_user": 0,
+                "flags": 0,
+                "total_message_sent": 1997,
+                "member": {
+                    "id": "1039467743059136543",
+                    "flags": 1,
+                    "join_timestamp": "2022-11-11T08:00:17.763000+00:00",
+                    "user_id": "1009281085965865070",
+                    "muted": false,
+                    "mute_config": null
+                },
+                "last_pin_timestamp": "2022-12-19T06:30:26+00:00",
+                "member_ids_preview": [
+                    "922003239887581205",
+                    "921595860175970334",
+                    "921633354133143712",
+                    "466908428539789332",
+                    "922319155070378045"
+                ]
+            },
+            "parentChanel": {
+                "id": "1039430602723704944",
+                "last_message_id": "1072826954690080788",
+                "type": 0,
+                "name": "erp-talent",
+                "position": 39,
+                "flags": 0,
+                "parent_id": "923018105784004659",
+                "topic": null,
+                "guild_id": "921239248991055882",
+                "permission_overwrites": [
+                    {
+                        "id": "951010111592235018",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "921595860175970334",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1011098797667008593",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "921239248991055882",
+                        "type": 0,
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "id": "1047698806705233950",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1026322739356774430",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1009281085965865070",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "869774806965420062",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1026683784030072882",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "921581863083073596",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "856211913456877608",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "921633354133143712",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "922310589865410610",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "922319155070378045",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "466908428539789332",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "913776186453274634",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    }
+                ],
+                "last_pin_timestamp": "2022-11-30T03:23:45+00:00",
+                "rate_limit_per_user": 0,
+                "nsfw": false
+            }
+        },
+        {
+            "authorization": "MTAxMTA5ODc5NzY2NzAwODU5Mw.Gub196.goz3-B9yuwBAhsQLi0NkDq9T_dv3yNFkMMjZJU",
+            "chanelId": "922318537987596309",
+            "getChanel": {
+                "id": "922318537987596309",
+                "guild_id": "921239248991055882",
+                "parent_id": "922152064145059860",
+                "owner_id": "856211913456877608",
+                "type": 11,
+                "name": "eastgate_daily",
+                "last_message_id": "1073445980990619728",
+                "thread_metadata": {
+                    "archived": false,
+                    "archive_timestamp": "2022-08-22T01:53:29.442000+00:00",
+                    "auto_archive_duration": 1440,
+                    "locked": false
+                },
+                "message_count": 1557,
+                "member_count": 10,
+                "rate_limit_per_user": 0,
+                "flags": 0,
+                "total_message_sent": 1604,
+                "member": {
+                    "id": "922318537987596309",
+                    "flags": 1,
+                    "join_timestamp": "2022-10-20T07:14:09.726000+00:00",
+                    "user_id": "1011098797667008593",
+                    "muted": false,
+                    "mute_config": null
+                },
+                "member_ids_preview": [
+                    "922119214121234432",
+                    "856211913456877608",
+                    "507470640010493953",
+                    "921260899799539782",
+                    "759070598441467935"
+                ]
+            },
+            "parentChanel": {
+                "id": "922152064145059860",
+                "last_message_id": "1073421803302690886",
+                "default_auto_archive_duration": 10080,
+                "type": 0,
+                "name": "eastgate",
+                "position": 33,
+                "flags": 0,
+                "parent_id": "921321444397441034",
+                "topic": null,
+                "guild_id": "921239248991055882",
+                "permission_overwrites": [
+                    {
+                        "id": "922306295346921552",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "922251529694629940",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "921260899799539782",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "759070598441467935",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "507470640010493953",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "1011098797667008593",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "id": "921239248991055882",
+                        "type": 0,
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "id": "856211913456877608",
+                        "type": 1,
+                        "allow": "1024",
+                        "deny": "0"
+                    }
+                ],
+                "last_pin_timestamp": "2023-02-01T08:37:11+00:00",
+                "rate_limit_per_user": 10,
+                "nsfw": false
+            }
+        }
+    ]
+}

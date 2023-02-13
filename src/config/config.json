@@ -1,0 +1,29 @@
+{
+    "development": {
+			"username": "root",
+			"password": null,
+			"database": "bot_support_ncc",
+			"host": "127.0.0.1",
+			"dialect": "mysql",
+			"define": {
+						"freezeTableName": true
+	}
+    },
+    "test": {
+        "username": "root",
+        "password": null,
+        "database": "bot_support_ncc",
+        "host": "127.0.0.1",
+        "dialect": "mysql",
+				"define": {
+					    "freezeTableName": true
+    }
+	},
+    "production": {
+        "username": "root",
+        "password": null,
+        "database": "bot_support_ncc",
+        "host": "127.0.0.1",
+        "dialect": "mysql"
+    }
+}
